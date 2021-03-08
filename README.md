@@ -16,18 +16,18 @@ Backend:
 6 - Crear las API's en Microsoft Azure utilizando Azure Functions en NodeJS\
 7 - Instalar las librerías de NodeJS necesarias para las API's usando la herramienta de KUDU\
 8 - Habilitar el CORS para el sitio https://cctvmonitoreo.com \
-9 - Configurar API Management(GET/POST) en Azure para cada Azure Function\
+9 - Configurar API Management(GET/POST) en Azure para cada Azure Function
 
 Frontend:
 
-1 - Conectar VSCode al directorio ftp de 'https://cctvmonitoreo.com/ciateq' usando el plugin 'SimpleSFTP'\
+1 - Conectar VSCode al directorio ftp de https://cctvmonitoreo.com/ciateq usando el plugin 'SimpleSFTP'\
 2 - Crear estructura de proyecto en el directorio FTP\
 3 - Cargar el framework VUE.js\
 4 - Desarollar y cargar el archivo index.html\
 5 - Desarollar y cargar archivo main.js (VUE.js)\
 6 - Desarollar y cargar componentes de VUE.js\
 7 - Desarollar y cargar hoja de estilos main.css\
-9 - Realizar pruebas.\
+9 - Realizar pruebas.
 
 Notas*:
 
