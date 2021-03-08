@@ -29,7 +29,7 @@ Frontend:
 7 - Desarollar y cargar hoja de estilos main.css\
 9 - Realizar pruebas.
 
-Notas*:
+Notas:
 
-Para la validacion del CURP en el frontend utilicé expresiones regulares basándome en un formato oficial de SEGOB que encuentra en la carpeta 'DOCS'\
-Al utilizar la aplicación en el sitio 'https://cctvmonitoreo.com/ciateq' probablemente tarden un poco en cargar las API's de azure la primera vez
+*Para la validacion del CURP en el frontend utilicé expresiones regulares basándome en un formato oficial de SEGOB que encuentra en la carpeta 'DOCS'\
+*Al utilizar la aplicación en el sitio 'https://cctvmonitoreo.com/ciateq' probablemente tarden un poco en cargar las API's de azure la primera vez
