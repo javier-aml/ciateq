@@ -15,7 +15,7 @@ Backend:
 5 - Crear los procedimientos almacenados de la base de datos\
 6 - Crear las API's en Microsoft Azure utilizando Azure Functions en NodeJS\
 7 - Instalar las librerías de NodeJS necesarias para las API's usando la herramienta de KUDU\
-8 - Habilitar el CORS para el sitio 'https://cctvmonitoreo.com'\
+8 - Habilitar el CORS para el sitio https://cctvmonitoreo.com \
 9 - Configurar API Management(GET/POST) en Azure para cada Azure Function\
 
 Frontend:
