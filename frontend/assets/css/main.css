@@ -1,0 +1,68 @@
+#logo{
+    width: 100px;
+    height: 80px;
+    background-image: url('../images/logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;    
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+#loginWrapper,#registerWrapper,#listWrapper{
+    width: fit-content;
+    background: #f1f1f1;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%; 
+    border-radius: 10px;
+    padding: 10px;       
+}
+input,select,button{
+    border: 1px solid #3e80fa;
+    padding: 5px;
+}
+button:hover{
+    background-color: #dcdcdc;
+}
+#loginWrapper table,#registerWrapper table{
+    border-collapse:separate; 
+    border-spacing:10px;    
+}
+#listWrapper table{
+    border-collapse:collapse;
+}
+#listWrapper table tr td{
+    padding-left: 15px;
+}
+#loginWrapper tr,#registerWrapper tr,#listWrapper tr{
+    margin-bottom: 5px;
+}
+#listWrapper tbody tr:nth-child(odd){
+    background-color: #cccccc;
+}
+.alert{
+    color: red;
+    font-size: 12px;
+}
+.label{
+    font-size: 12px;
+}
+.invalid-input{
+    border: 1px solid red !important;
+}
+#listWrapper a{
+    color: gray;
+    text-decoration: none;
+}
+#listWrapper a:hover{
+    color: black;
+}
+#listWrapper > span > span > h2{
+    float: left;
+}
+#listWrapper > span > span > a{
+    float: right;
+    margin-right: 4px;
+    margin-top: 2px;    
+}
