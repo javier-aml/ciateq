@@ -20,14 +20,14 @@ Backend:
 
 Frontend:
 
-1 - Conectar VSCode al directorio ftp de 'https://cctvmonitoreo.com/ciateq/' usando el plugin 'SimpleSFTP'
-2 - Crear estructura de proyecto en el directorio FTP
-3 - Cargar el framework VUE.js
-4 - Desarollar y cargar el archivo index.html
-5 - Desarollar y cargar archivo main.js (VUE.js)
-6 - Desarollar y cargar componentes de VUE.js
-7 - Desarollar y cargar hoja de estilos main.css
-9 - Realizar pruebas.
+1 - Conectar VSCode al directorio ftp de 'https://cctvmonitoreo.com/ciateq/' usando el plugin 'SimpleSFTP'\
+2 - Crear estructura de proyecto en el directorio FTP\
+3 - Cargar el framework VUE.js\
+4 - Desarollar y cargar el archivo index.html\
+5 - Desarollar y cargar archivo main.js (VUE.js)\
+6 - Desarollar y cargar componentes de VUE.js\
+7 - Desarollar y cargar hoja de estilos main.css\
+9 - Realizar pruebas.\
 
 Notas*:
 
