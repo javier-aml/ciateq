@@ -1,6 +1,6 @@
 EJERCICIO 2
 
-En este ejercicio desarrollé e implemente tanto el backend como el frontend, el cual esta actualmente en funcionando en este sitio:
+En este ejercicio desarrollé e implementé tanto el backend como el frontend, el cual esta actualmente en funcionando en este sitio:
 
 https://cctvmonitoreo.com/ciateq/
 
@@ -12,16 +12,16 @@ Backend:
 2 - Crear una base de datos SQL en microsoft Azure
 3 - Conectarse a la base de dato SQL de Azure usando SQL Management Studio
 4 - Crear las tablas de la base de datos
-5 - Crear los procedimientos alamacenados de la base de datos
+5 - Crear los procedimientos almacenados de la base de datos
 6 - Crear las API's en Microsoft Azure utilizando Azure Functions en NodeJS
-7 - Instalar las librerias de NodeJS necesarias para las API's usando la herramienta de KUDU
+7 - Instalar las librerías de NodeJS necesarias para las API's usando la herramienta de KUDU
 8 - Habilitar el CORS para el sitio 'https://cctvmonitoreo.com'
 9 - Configurar API Management(GET/POST) en Azure para cada Azure Function
 
 Frontend:
 
-1 - Conectar VSCode al ftp de 'https://cctvmonitoreo.com/ciateq/' usando plugin 'SimpleSFTP'
-2- Crear estructura de proyecto en el directorio FTP
+1 - Conectar VSCode al directorio ftp de 'https://cctvmonitoreo.com/ciateq/' usando el plugin 'SimpleSFTP'
+2 - Crear estructura de proyecto en el directorio FTP
 3 - Cargar el framework VUE.js
 4 - Desarollar y cargar el archivo index.html
 5 - Desarollar y cargar archivo main.js (VUE.js)
@@ -31,4 +31,5 @@ Frontend:
 
 Notas*:
 
-Para la validacion del CURP en el frontend utilicé expresiones regulares basandome en un formato oficial de SEGOB que encuentra en la carpeta 'DOCS' 
+Para la validacion del CURP en el frontend utilicé expresiones regulares basándome en un formato oficial de SEGOB que encuentra en la carpeta 'DOCS'
+Al utilizar la aplicación en el sitio 'https://cctvmonitoreo.com/ciateq/' probablemente tarden un poco en cargar las API's de azure la primera vez
