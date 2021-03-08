@@ -8,15 +8,15 @@ Descripción del proceso por pasos:
 
 Backend:
 
-1 - Abrir una cuenta de prueba en Microsoft Azure
-2 - Crear una base de datos SQL en microsoft Azure
-3 - Conectarse a la base de dato SQL de Azure usando SQL Management Studio
-4 - Crear las tablas de la base de datos
-5 - Crear los procedimientos almacenados de la base de datos
-6 - Crear las API's en Microsoft Azure utilizando Azure Functions en NodeJS
-7 - Instalar las librerías de NodeJS necesarias para las API's usando la herramienta de KUDU
-8 - Habilitar el CORS para el sitio 'https://cctvmonitoreo.com'
-9 - Configurar API Management(GET/POST) en Azure para cada Azure Function
+1 - Abrir una cuenta de prueba en Microsoft Azure\
+2 - Crear una base de datos SQL en microsoft Azure\
+3 - Conectarse a la base de dato SQL de Azure usando SQL Management Studio\
+4 - Crear las tablas de la base de datos\
+5 - Crear los procedimientos almacenados de la base de datos\
+6 - Crear las API's en Microsoft Azure utilizando Azure Functions en NodeJS\
+7 - Instalar las librerías de NodeJS necesarias para las API's usando la herramienta de KUDU\
+8 - Habilitar el CORS para el sitio 'https://cctvmonitoreo.com'\
+9 - Configurar API Management(GET/POST) en Azure para cada Azure Function\
 
 Frontend:
 
