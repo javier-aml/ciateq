@@ -2,7 +2,7 @@ EJERCICIO 2
 
 En este ejercicio desarrollé e implementé tanto el backend como el frontend, el cual esta actualmente en funcionando en este sitio:
 
-https://cctvmonitoreo.com/ciateq/
+https://cctvmonitoreo.com/ciateq
 
 Descripción del proceso por pasos:
 
@@ -20,7 +20,7 @@ Backend:
 
 Frontend:
 
-1 - Conectar VSCode al directorio ftp de 'https://cctvmonitoreo.com/ciateq/' usando el plugin 'SimpleSFTP'\
+1 - Conectar VSCode al directorio ftp de 'https://cctvmonitoreo.com/ciateq' usando el plugin 'SimpleSFTP'\
 2 - Crear estructura de proyecto en el directorio FTP\
 3 - Cargar el framework VUE.js\
 4 - Desarollar y cargar el archivo index.html\
@@ -32,4 +32,4 @@ Frontend:
 Notas*:
 
 Para la validacion del CURP en el frontend utilicé expresiones regulares basándome en un formato oficial de SEGOB que encuentra en la carpeta 'DOCS'
-Al utilizar la aplicación en el sitio 'https://cctvmonitoreo.com/ciateq/' probablemente tarden un poco en cargar las API's de azure la primera vez
+Al utilizar la aplicación en el sitio 'https://cctvmonitoreo.com/ciateq' probablemente tarden un poco en cargar las API's de azure la primera vez
