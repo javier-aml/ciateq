@@ -33,4 +33,5 @@ Notas:
 
 *Para la validacion del CURP en el frontend utilicé expresiones regulares basándome en un formato oficial de SEGOB que encuentra en la carpeta 'DOCS'\
 *El paramatetro de sesión lo estoy almacenando en el Local Storage como un string encriptado con la libreria crypto js , el string es el curp y el timestamp de la fecha, el parametro se encripta dentro de la api y la session tiene una validez de 3 minutos\
-*Al utilizar la aplicación en el sitio 'https://cctvmonitoreo.com/ciateq' probablemente tarden un poco en cargar las API's de azure la primera vez
+*Al utilizar la aplicación en el sitio 'https://cctvmonitoreo.com/ciateq' probablemente tarden un poco en cargar las API's de azure la primera vez\
+*Correr la aplicación con Google Chrome de preferencia, es posible que tenga problemas de compatibilidad con otros navegadores.
